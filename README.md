@@ -1,8 +1,8 @@
-For deployment of Version 1 of crowdfuncting smart contract, use  command
+For deployment of Version 1 of crowdfuncting smart contract, use  command<br />
 "npx hardhat run scripts/1_deploy_logic.js --network sepolia"
 
 
-For deployment of Version 2(updated) of crowdfuncting smart contract, use  command
+For deployment of Version 2(updated) of crowdfuncting smart contract, use  command<br />
 "npx hardhat run scripts/2_deploy_logicv2.js --network sepolia"
 
 
@@ -12,9 +12,9 @@ Right now, it is proxyAddress = "0x51eca880852b77e0331B17a4deb0abfB6E49CbC5";
 
 -------------------------------------------------------------------------
 
-For uploading the image, moralis services are used.
-cd backend
-node test.js
+For uploading the image, moralis services are used.<br />
+cd backend<br />
+node test.js<br />
 
 Keep the above server running on port 8000
 
