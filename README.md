@@ -1,9 +1,9 @@
-For deployment of Version 1 of crowdfuncting smart contract, use below command
-npx hardhat run scripts/1_deploy_logic.js --network sepolia
+For deployment of Version 1 of crowdfuncting smart contract, use  command
+"npx hardhat run scripts/1_deploy_logic.js --network sepolia"
 
 
-For deployment of Version 2(updated) of crowdfuncting smart contract, use below command
-npx hardhat run scripts/2_deploy_logicv2.js --network sepolia
+For deployment of Version 2(updated) of crowdfuncting smart contract, use  command
+"npx hardhat run scripts/2_deploy_logicv2.js --network sepolia"
 
 
 If deploying again, then please change the proxy_address inside the scripts -> 2_deploy_logicv2.js 
