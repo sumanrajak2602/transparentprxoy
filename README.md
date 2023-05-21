@@ -6,7 +6,7 @@ For deployment of Version 2(updated) of crowdfuncting smart contract, use  comma
 "npx hardhat run scripts/2_deploy_logicv2.js --network sepolia"
 
 
-If deploying again, then please change the proxy_address inside the scripts -> 2_deploy_logicv2.js 
+If deploying again, then please change the proxy_address inside the scripts -> 2_deploy_logicv2.js <br />
 Right now, it is proxyAddress = "0x51eca880852b77e0331B17a4deb0abfB6E49CbC5";
 
 
